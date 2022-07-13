@@ -1,5 +1,5 @@
-import Chess_Data_Scraping as scrap
-import Chess_data_prep as prep
+import scrape as scrap
+import prep as prep
 
 # Call this script to create the files for selected username, number of years, and gametype
 

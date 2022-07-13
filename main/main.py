@@ -1,9 +1,10 @@
-import Chess_Data_Scraping as scrap
-import Chess_data_prep as prep
-import Chess_data_analysis as anal
-# import Chess_data_modelling as mod
+
+import scraping as scrap
+import prep as prep
+import analysis as anal
+# import modeling as mod
 import PySimpleGUI as sg
-# import sys
+
 
 ###########################   Chess_Data_Scraping.py
 

@@ -46,7 +46,7 @@ def count_all_games_in_year(NAME, first, last):
 
 
 def json_parser(name, start_year, end_year):
-    # path = r'C:\Users\tsadmin\PycharmProjects\Codewars\Chess_scraping'
+
     path = r'.\.'
     for year in range(start_year,end_year):
         root = f'\\{name}_{year}'
